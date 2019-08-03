@@ -24,6 +24,10 @@ randomShadowTags(`1,0`); | `only` black `lines 1px` (real sizes including lines)
 randomShadowTags(`0,15`); | `only shadows 15px`
 randomShadowTags(`0,0`); | `nothing`
 
+#### Snippet
+
+You can use code from file [snippetModule.js](https://github.com/hsplit/random-shadow-tags-split/blob/master/snippetModule.js) to create snippet in chrome.
+
 #### Additional
 Method returns a random hex color.
     
